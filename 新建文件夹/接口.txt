@@ -1,0 +1,6 @@
+全国省：
+/cm/mobile/basedata/my/generalSetting/getAllProvinceForPS 方式：post    参数：空
+全地市：
+    /cm/mobile/basedata/my/generalSetting/getAllCityForPS         方式：post    参数：{"parentCode":" * "}
+全区县：
+   /cm/mobile/basedata/my/generalSetting/getAllCountryForPS   方式：post    参数：{"parentCode":" * "}
