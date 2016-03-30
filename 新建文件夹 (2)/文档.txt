@@ -1,0 +1,34 @@
+http://showcase.ngnice.com/#/input/radio    Angular.js范例
+http://my.oschina.net/foodon/blog/338698     angular 入门
+
+CSS content内容生成技术以及应用
+http://www.zhangxinxu.com/wordpress/2010/04/
+css-content%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90
+%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/
+
+
+http://www.open-open.com/code/view/1429602156244     javascript汉字转拼音的方法
+
+OPEN经验库
+
+http://www.ruanyifeng.com/blog/2012/11/require_js.html    require.js的用法
+meta:vp        meta标签快捷键
+
+
+
+密钥：
+http://0.idea.lanyus.com/
+
+牛客网面试题
+http://www.nowcoder.com/ta/front-end-interview
+
+http://showcase.ngnice.com/#/input/radio    Angular.js范例
+
+微信公众平台开发者文档
+http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html 
+  	
+angularJS directive详解
+http://my.oschina.net/u/1992917/blog/406421 
+
+angularjs学习笔记—工具方法
+http://www.tuicool.com/articles/nUbUnqE
