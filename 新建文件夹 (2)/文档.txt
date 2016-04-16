@@ -35,3 +35,6 @@ http://www.tuicool.com/articles/nUbUnqE
 
 angular  select详细用法/
 http://www.codeweblog.com/angularjs-select%E8%AF%A6%E7%BB%86%E7%94%A8%E6%B3%95/
+
+angular 1.3.9 英文文档
+http://docs.angularjs.cn/api
