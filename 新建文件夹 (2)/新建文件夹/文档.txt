@@ -42,4 +42,7 @@ http://docs.angularjs.cn/api
 我要自学网--PS免费教程
 http://www.51zxw.net/list.aspx?page=2&cid=19
 
+angular教程
+http://each.sinaapp.com/angular/index.html?#
+
 

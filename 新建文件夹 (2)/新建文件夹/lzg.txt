@@ -20,6 +20,18 @@ addAccessrecord_in_common_header_js(add.id,"1",mpUser.userid,"");
 //新框架方法
 $scope.addAccessrecord(add.id,"1",$scope.mpUser.userid,"");
 
+//获取分享随机code
+$scope.getUUID = function () {
+  UserService.UUID('', function (data) {
+   if (data.status === config.rtcode.success) {
+       $scope.shareUUID = data.id;
+         } else {
+            $scope.growl(data.message, "error");
+       }
+    });
+  }
+
+
 发布账号
 15711200000
 15711220000
