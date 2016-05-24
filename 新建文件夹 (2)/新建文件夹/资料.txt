@@ -1,8 +1,8 @@
-https://cas.cninsure.net/iisadmpwd/      修改密码地址  yinwl/YWLmima123 
+https://cas.cninsure.net/iisadmpwd/      修改密码地址  yinwl/YWLmima999 
 
 https://cas.cninsure.net/owa/           公司邮箱 yinwl/YWLmima888 
 
-https://10.88.2.47/svn/zhangzhongbao
+https://10.88.2.47/svn/zhangzhongbao       yinwl/ywl123456
 
 liuyj07@cninsure.net
 
